@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
