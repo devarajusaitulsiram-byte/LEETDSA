@@ -77,9 +77,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2236-root-equals-sum-of-children) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
