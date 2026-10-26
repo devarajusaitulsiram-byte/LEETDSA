@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
