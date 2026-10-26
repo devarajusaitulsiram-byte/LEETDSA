@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0412-fizz-buzz) |
+| [3110-score-of-a-string](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
