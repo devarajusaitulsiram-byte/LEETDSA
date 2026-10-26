@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0771-jewels-and-stones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
