@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
