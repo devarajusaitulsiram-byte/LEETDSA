@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
