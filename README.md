@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devarajusaitulsiram-byte/LEETDSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
